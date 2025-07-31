@@ -1,4 +1,5 @@
 Blinkit Sales Data Analysis and Visualization
+
     1. Developed an end-to-end business intelligence dashboard using real Blinkit sales data to identify key trends and improve data-driven decision-making.
     2. Cleaned and transformed raw data using Python (Pandas) and Excel for consistency and ease of analysis.
     3. Wrote optimized SQL queries to aggregate metrics like total sales, average rating, and item distribution across outlet types, sizes, and locations.
